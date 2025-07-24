@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya Lokhande</h1>
-<h2 align="center">Pre-final Year Computer Engineering Student | VPKBIET Baramati | Aspiring Frontend Developer</h2>
+<h2 align="center">FSinal Year Computer Engineering Student | VPKBIET Baramati | Aspiring Frontend Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divya-lokhande26&label=Profile%20views&color=0e75b6&style=flat" alt="divya-lokhande26" /> </p>
 
