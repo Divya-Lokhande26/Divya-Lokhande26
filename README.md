@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Digital Steganography and Watermarking for Digital Images (Python, OpenCV, NumPy)**
 
-- 🌱 I’m currently learning ** and focused on expanding my knowledge in React, advanced JavaScript concepts, backend development (Node.js), and improving my understanding of database management (MySQL, MongoDB).**
+- 🌱 I’m currently learning  and focused on expanding my knowledge in React, advanced JavaScript concepts, backend development (Node.js), and improving my understanding of database management (MySQL, MongoDB).**
 
 - 📫 How to reach me **dlokhande2004@gmail.com**
 
